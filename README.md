@@ -8,7 +8,9 @@ Team Name: Outliers
 Final Project Group 37
 Our project focused on finding the safest/healthiest neighborhood in Pittsburgh for senior citizens. 
 
-Yousif Alkharraz, Dataset used:
+Yousif Alkharraz, yba2@pitt.edu Dataset used: 311 Reports
+
+https://data.wprdc.org/dataset/311-data 
 
 Kittrick Danzeisen, kjd76@pitt.edu, Dataset used: Diabetes & Hypertension & Hyperlipidemia comorbidity
 https://data.wprdc.org/dataset/diabetes-hypertension-hyperlipidemia-comorbidity
